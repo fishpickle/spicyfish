@@ -1,3 +1,3 @@
-Thank you for READINGME
-I am born
-I am edited
+Thank you for READINGME.
+I am born.
+I am edited.
